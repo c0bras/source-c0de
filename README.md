@@ -1,3 +1,3 @@
-## Welcome to source-c0de
+# Welcome to source-c0de
 
-Just testing out GitHub Pages
+Everything is in the Wiki
