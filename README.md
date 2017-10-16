@@ -1,3 +1,3 @@
-# Welcome to source-c0de
+# Welcome to c0bra$' source-c0de
 
-Everything is in the Wiki
+Everything from this repository is in the Wiki.
